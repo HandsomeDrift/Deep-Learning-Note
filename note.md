@@ -170,3 +170,4 @@ $P$和$Q$的KL-散度 $D_{KL}(P \Vert Q)$
 
 ![image-20240909192038311](note.assets/image-20240909192038311.png)
 
+ 
