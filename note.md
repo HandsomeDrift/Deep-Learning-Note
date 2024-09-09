@@ -168,4 +168,4 @@ $P$和$Q$的KL-散度 $D_{KL}(P \Vert Q)$
 2. 选择有监督的学习算法，它将训练数据集作为输入，并输出一个“已完成学习的模型”；
 3. 将之前没有见过的样本特征放到这个“已完成学习的模型”中，使用模型的输出作为相应标签的预测。
 
-![image-20240909190835448](C:\Users\hands\AppData\Roaming\Typora\typora-user-images\image-20240909190835448.png)
+![image-20240909191616093](../../../AppData/Roaming/Typora/typora-user-images/image-20240909191616093.png)
